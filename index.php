@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Email Prefix</title>
+<title>Is String Lowercase?</title>
 </head>
 <body>
-<h2>Problem: Input Email address, then display the pre-fix.</h2>
+<h2>Problem: Input string, then chekc to see if it is lowercase.</h2>
   <form method="POST">
     <input type="text" placeholder="String" name="string" />
       <input type="submit"/>
